@@ -9,10 +9,10 @@
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... [website](https://nowshad7.github.io/)
 
-### Find me
+### Find me <iframe src="https://giphy.com/embed/tVsCDDAOPBqX6" width="224" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/detective-tVsCDDAOPBqX6">via GIPHY</a></p>
 [<img align="left" alt="nowshad | LinkedIn" width="40px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
 [<img align="left" alt="nsd | Mail" width="40px" src="https://img.icons8.com/fluent/48/000000/gmail.png" />][Mail]
-[<img align="left" alt="nsd | Instagram" width="40px" src="https://img.icons8.com/fluent/48/000000/facebook.png" />][fb]
+[<img align="left" alt="nsd | fb" width="40px"src="https://img.icons8.com/fluent/48/000000/facebook-new.png"/>][fb]
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
