@@ -10,7 +10,7 @@
 - 📫 How to reach me: ... [website](https://nowshad7.github.io/)
 
 ### Find me 
-<img src="https://giphy.com/embed/tVsCDDAOPBqX6" width="224" >
+<img align = "left" src="https://giphy.com/embed/tVsCDDAOPBqX6" width="100" >
 [<img align="left" alt="nowshad | LinkedIn" width="40px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
 [<img align="left" alt="nsd | Mail" width="40px" src="https://img.icons8.com/fluent/48/000000/gmail.png" />][Mail]
 
