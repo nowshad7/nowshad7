@@ -1,16 +1,14 @@
 
 ### Hi, I'm Nowshad 👋
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<br>
-<br>
+
 
 - 🔭 I’m currently working on ... sharpening my skills
 - 🌱 I’m currently learning ... Data Scienttist with python track in DataCamp 
 - 👯 I’m looking to collaborate on ... any Data Science Project
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... [website](https://nowshad7.github.io/)
-<br>
-</br>
+
 ### Find me
 [<img align="left" alt="nowshad | LinkedIn" width="40px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
 [<img align="left" alt="nsd | Mail" width="40px" src="https://img.icons8.com/fluent/48/000000/gmail.png" />][Mail]
