@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning ... Data Scienttist with python track in DataCamp 
 - 👯 I’m looking to collaborate on ... any Data Science Project
 - 💬 Ask me about ... Anything
-- 📫 How to reach me: ... [website](https://nowshad7.github.io/)
+- 📫 Resume: ... [Personal website](https://nowshad7.github.io/)
 
 ### Find me 
 - [linkedin](https://www.linkedin.com/in/rh-nowshad/)
