@@ -4,8 +4,8 @@
 
 
 - 🔭 I’m currently working on ... sharpening my skills
-- 🌱 I’m currently learning ... Data Scientist with python track in DataCamp 
-- 👯 I’m looking to collaborate on ... any AI/ML Project
+- 🌱 I’m currently learning ... Node, React, Angular. 
+- 👯 I’m looking to collaborate on ... Software Development Project
 - 💬 Ask me about ... Anything
 - 📫 Resume: ... [Personal website](https://nowshad7.github.io/)
 
