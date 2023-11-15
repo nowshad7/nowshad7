@@ -2,12 +2,11 @@
 ### Hi, I'm Nowshad 👋
 <img align='right' src="https://media.giphy.com/media/EAfeMhhZjJ9zhXh69P/source.gif" width="200">
 
-
-- 🔭 I’m currently working on ... sharpening my skills
-- 🌱 I’m currently learning ... Node, React, Angular. 
-- 👯 I’m looking to collaborate on ... Software Development Project
-- 💬 Ask me about ... Anything
-- 📫 Resume: ... [Personal website](https://nowshad7.github.io/)
+Always Looking for a platform that gives me a chance to exploit my extreme interest in the field of
+Software Engineering, fulfill my desire to do something out of the box, explore my talent and showcase my skills
+properly. 
+I like Problem-Solving, in general, be it algorithmic or a business use case. I am proficient in PHP,
+Magento 2, Laravel, WooCommerce, CakePHP, Yii2, REST API.
 
 ### Find me 
 - [linkedin](https://www.linkedin.com/in/rh-nowshad/)
