@@ -1,38 +1,28 @@
 # 👋 Hi, I'm Robiul Hasan Nowshad
 
-🌟 **Software Specialist | Backend Developer | Microservices**  
-📍 Merul Badda, Dhaka, Bangladesh  
+⚡ **Backend Architect | Microservices Innovator | Scalable Solutions Builder**  
+📍 Dhaka, Bangladesh  
 📧 [nowshad21aug@gmail.com](mailto:nowshad21aug@gmail.com) | 📞 +88017-7130-5643  
-🌐 [LinkedIn](https://www.linkedin.com/in/robiul-hasan-nowshad) | [GitHub](https://github.com/your-github-username)
+🌐 [LinkedIn](https://www.linkedin.com/in/robiul-hasan-nowshad) | [GitHub](https://github.com/nowshad7)  
 
 ---
 
-## 🛠 Skills & Expertise
-- **Backend Development:** PHP, Python, Laravel, Magento 2, CakePHP, Yii2, Django  
-- **Databases:** MySQL, Microsoft SQL Server, Oracle 10g  
-- **Frontend Development:** React.js, Redux, JavaScript, Bootstrap, HTML, CSS  
-- **Cloud & DevOps:** AWS S3, Microsoft Azure, Docker, VPS, Git, Jira  
-- **Soft Skills:** Leadership, Team player, Responsible, Desire for working  
+## 🚀 **About Me**  
+I build scalable, secure backend systems that power **Fintech**, **E-commerce**, and **Enterprise solutions**. With a focus on **microservices architecture** and a knack for simplifying complexity, I deliver systems designed to grow with your business.  
 
 ---
 
-## 💼 Professional Experience
-### [Software Shop Limited (SSL Wireless)](https://sslwireless.com)  
-**Software Specialist**  
-*July 2023 – Present | Dhaka, Bangladesh*  
-- Specialized in backend development for **Fintech** and **Enterprise solutions**.
-- Expertise in **Laravel**, REST APIs, **System Architecture**, **React.js**, and **Azure**.
-- Designed and implemented **microservices** and enterprise solutions like **SR Management**, ROI analysis, and campaign management.
+## 🛠️ **Skills Snapshot**  
+- **Backend:** Laravel, Magento 2, Python (Django)  
+- **Databases:** MySQL, MSSQL, Oracle 10g  
+- **Cloud & DevOps:** Azure, AWS, Docker, GitOps  
+- **Leadership:** Team building, mentoring, and strategic problem-solving  
 
-### Dcastalia Ltd.  
-**Software Engineer**  
-*July 2022 – June 2023 | Dhaka, Bangladesh*  
-- Served as **Lead Backend Engineer** for an **E-commerce** platform using Magento 2 and CakePHP.
-- Mentored junior engineers, improving team efficiency and delivering client-focused solutions.
+---
 
-**Junior Software Engineer**  
-*May 2021 – June 2022 | Dhaka, Bangladesh*  
-- Contributed to **Magento 2** API development using Yii2 and Laravel.
+## 💼 **Recent Work**  
+- Architected ROI systems, SR management platforms, and campaign dashboards at **SSL Wireless**.  
+- Delivered custom **E-commerce platforms** and mentored teams at **Dcastalia Ltd.**  
 
 ---
 ## 📈 GitHub Stats
