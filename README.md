@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Robiul Hasan Nowshad
 
-⚡ **Backend Architect | Microservices Innovator | Scalable Solutions Builder**  
+⚡ **Senior Software Engineer | Scalable Solutions Builder**  
 📍 Dhaka, Bangladesh  
 📧 [nowshad21aug@gmail.com](mailto:nowshad21aug@gmail.com) | 📞 +88017-7130-5643  
 🌐 [LinkedIn](https://www.linkedin.com/in/robiul-hasan-nowshad) | [GitHub](https://github.com/nowshad7)  
@@ -8,13 +8,13 @@
 ---
 
 ## 🚀 **About Me**  
-I build scalable, secure backend systems that power **Fintech**, **E-commerce**, and **Enterprise solutions**. With a focus on **microservices architecture** and a knack for simplifying complexity, I deliver systems designed to grow with your business.  
+I build scalable, secure backend systems that power **Fintech**, **E-commerce**, and **Enterprise solutions**. A knack for simplifying complexity, I deliver systems designed to grow with your business.  
 
 ---
 
 ## 🛠️ **Skills Snapshot**  
-- **Backend:** Laravel, Magento 2, Python (Django)  
-- **Databases:** MySQL, MSSQL, Oracle 10g  
+- **Backend:** Laravel, Symfony, Magento 2, Python (Django)  
+- **Databases:** MySQL, PostgreSQL, MSSQL, Oracle 10g  
 - **Cloud & DevOps:** Azure, AWS, Docker, GitOps  
 - **Leadership:** Team building, mentoring, and strategic problem-solving  
 
