@@ -40,9 +40,9 @@ I specialize in **backend engineering, system architecture, and performance opti
 
 ## 🧭 Engineering Mindset
 
-- Architecture is a **business decision**, not just a technical one  
-- Clean, readable code beats clever abstractions  
-- Systems should scale **before** traffic forces them to  
+- Architecture is a business decision, not just a technical one  
+- Clean, readable code over clever abstractions  
+- Systems should scale before traffic forces them to  
 - APIs are contracts — breaking them is expensive  
 - Mentorship multiplies team output  
 
@@ -130,13 +130,13 @@ Enterprise Learning Management System used by **BRAC Bank, bKash, and Microfinan
 - Multi-tenant access control and reporting  
 
 ### 📊 BAT ROI Solution — *SSL Wireless*
-**Laravel · React · Azure**  
+**Laravel · React.js · Azure**  
 ROI analysis platform for **British American Tobacco Bangladesh**  
 - Automated revenue, expense, and investment tracking  
 - Real-time dashboards  
 
 ### 🧾 Easy SR Management — *SSL Wireless*
-**Laravel · React · Oracle**  
+**Laravel · React.js · Oracle**  
 - Sales Representative management platform  
 - Microservice-based APIs with secure authentication  
 
@@ -149,9 +149,25 @@ ROI analysis platform for **British American Tobacco Bangladesh**
 
 ## 🏆 Highlights & Achievements
 
-- Solved **300+ algorithmic problems** (AlgoExpert, LeetCode, HackerRank)  
-- **Top 20** – Intra-AUST Programming Contests (2016 & 2017)  
-- Led backend teams on high-traffic production systems  
+- Solved **300+ algorithmic problems** across platforms  
+  - 🎓 **AlgoExpert Certificate:** https://certificate.algoexpert.io/AE-e366f4cc8a  
+  - 💻 **LeetCode Profile:** https://leetcode.com/u/rh-nowshad/  
+
+---
+
+## 📊 Coding Activity
+
+<p align="center">
+  <img height="160"
+       src="https://github-readme-stats.vercel.app/api?username=nowshad7&show_icons=true&hide_title=true&rank_icon=github&theme=default" />
+  <img height="160"
+       src="https://github-readme-streak-stats.herokuapp.com/?user=nowshad7&theme=default" />
+</p>
+
+<p align="center">
+  <img height="160"
+       src="https://leetcard.jacoblin.cool/rh-nowshad?theme=light&font=Inter&ext=heatmap" />
+</p>
 
 ---
 
@@ -164,12 +180,10 @@ Ahsanullah University of Science and Technology
 
 ## 🤝 Let’s Connect
 
-I enjoy working on **complex backend systems**, **architecture challenges**, and **mentoring engineers** who care about quality.
+If you’re interested in **backend architecture**, **system design**, or **engineering collaboration**, feel free to reach out.
 
-If you’re interested in collaboration or technical discussion:
-
-🔗 [LinkedIn](https://www.linkedin.com/in/rh-nowshad)  
-📧 nowshad21aug@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/rh-nowshad  
+📧 Email: nowshad21aug@gmail.com  
 
 > *Build systems that scale. Write code that lasts.*
 
