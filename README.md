@@ -1,101 +1,179 @@
-# Robiul Hasan Nowshad
+<!-- ────────────────────────────────  P R O F I L E  ──────────────────────────────── -->
 
-**Senior Software Engineer**
+<p align="center">
+  <img width="100%" alt="header"
+       src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Hi!%20I'm%20Robiul%20Hasan%20Nowshad&fontSize=48&animation=fadeIn&fontAlignY=35" />
+</p>
 
-Dhaka, Bangladesh  
-📧 nowshad21aug@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/rh-nowshad) · [GitHub](https://github.com/nowshad7)
+<p align="center">
+  <img alt="typing"
+       src="https://readme-typing-svg.demolab.com?font=Inter&size=26&pause=900&color=4F46E5&center=true&vCenter=true&width=900&lines=Senior+Software+Engineer;Backend+%7C+System+Architecture+%7C+Cloud;Building+scalable+systems+that+last" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/rh-nowshad">
+    <img src="https://img.shields.io/badge/LinkedIn-Robiul%20Hasan%20Nowshad-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:nowshad21aug@gmail.com">
+    <img src="https://img.shields.io/badge/Email-nowshad21aug@gmail.com-334155?style=for-the-badge" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=nowshad7&style=for-the-badge" />
+</p>
+
+<p align="center">
+  <img width="100%" alt="divider"
+       src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&section=footer" />
+</p>
 
 ---
 
-## Professional Summary
+## 👨‍💻 Who I Am
 
-Senior Software Engineer with **5+ years of experience** in designing, developing, and deploying **scalable enterprise applications**. Strong background in backend development, system architecture, and cloud-based solutions. Experienced in leading teams, mentoring engineers, and delivering high-impact software for banking, fintech, and e-commerce domains.
+**Senior Software Engineer** with **5+ years of experience** building and scaling enterprise-grade applications across **banking, fintech, LMS, and e-commerce** domains.
 
----
+I specialize in **backend engineering, system architecture, and performance optimization**, with a strong focus on building maintainable systems and mentoring engineers to deliver consistently in production environments.
 
-## Core Competencies
-
-- Enterprise backend architecture & API design  
-- High-performance and scalable system development  
-- Cloud deployment and DevOps workflows  
-- Database design, optimization, and integrations  
-- Team leadership and technical mentorship  
+📍 Dhaka, Bangladesh  
+🏢 Senior Software Engineer @ **BRAC IT Services Ltd.**
 
 ---
 
-## Technical Skills
+## 🧭 Engineering Mindset
 
-**Backend**  
+- Architecture is a **business decision**, not just a technical one  
+- Clean, readable code beats clever abstractions  
+- Systems should scale **before** traffic forces them to  
+- APIs are contracts — breaking them is expensive  
+- Mentorship multiplies team output  
+
+---
+
+## 🛠 What I Do
+
+<table>
+  <tr>
+    <td width="50%">
+
+### 🧱 Build Systems
+- Design scalable backend architectures  
+- Develop secure, high-performance REST APIs  
+- Optimize database queries and application performance  
+- Build multi-tenant and enterprise-ready platforms  
+
+    </td>
+    <td width="50%">
+
+### 👥 Enable Teams
+- Mentor junior and mid-level engineers  
+- Promote best practices in backend & API design  
+- Lead technical discussions and architecture decisions  
+- Maintain delivery quality under real-world constraints  
+
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🧰 Tech Stack
+
+<table>
+  <tr>
+    <th align="left">Backend</th>
+    <th align="left">Frontend</th>
+    <th align="left">Databases</th>
+    <th align="left">DevOps & Tools</th>
+  </tr>
+  <tr>
+    <td>
+
 - PHP (Laravel, Symfony, CakePHP, Magento 2)  
 - Python  
 
-**Frontend**  
-- React.js, Angular  
+    </td>
+    <td>
+
+- React.js  
+- Angular  
 - JavaScript, HTML5, CSS3, Bootstrap  
 
-**Databases**  
-- MySQL, PostgreSQL  
-- Oracle 10g, Microsoft SQL Server  
+    </td>
+    <td>
 
-**DevOps & Tools**  
-- Docker, Git  
-- Azure, AWS S3, VPS  
-- REST APIs, Jira  
+- MySQL  
+- PostgreSQL  
+- Oracle 10g  
+- Microsoft SQL Server  
 
----
+    </td>
+    <td>
 
-## Professional Experience
+- Docker  
+- Git  
+- Azure  
+- AWS S3  
+- REST APIs  
+- Jira  
 
-### BRAC IT Services Ltd.  
-**Senior Software Engineer** | Feb 2025 – Present  
-- Architecting and deploying an enterprise Learning Management System (LMS) used by BRAC Bank, bKash, and Microfinance branches.  
-- Implemented automated cloud service billing across BRAC concerns, reducing manual operational effort by approximately 60%.  
-- Mentoring junior engineers on system design, backend best practices, and API development standards.
-
-### Software Shop Limited (SSL Wireless)  
-**Software Specialist** | Jul 2023 – Jan 2025  
-- Developed enterprise-grade services and REST APIs using Laravel and React.js.  
-- Designed scalable system architectures integrating Azure cloud infrastructure and Oracle databases.  
-
-### Dcastalia Ltd.  
-**Software Engineer → Lead Backend Engineer** | Feb 2021 – Jun 2023  
-- Led backend development for large-scale e-commerce platforms using Magento 2, Laravel, and CakePHP.  
-- Integrated multiple payment gateways and OAuth authentication providers.  
-- Improved API response times by up to 35% through query optimization and performance tuning.
+    </td>
+  </tr>
+</table>
 
 ---
 
-## Selected Projects
+## 📌 Selected Projects
 
-**WeLearn LMS** — Symfony, Angular, Azure  
-Enterprise LMS platform serving BRAC Bank, bKash, and Microfinance teams, featuring multi-tenant access and advanced reporting.
+### 📘 WeLearn LMS — *BRAC IT*
+**Symfony · Angular · Azure**  
+Enterprise Learning Management System used by **BRAC Bank, bKash, and Microfinance teams**  
+- Modular backend architecture  
+- Multi-tenant access control and reporting  
 
-**BAT ROI Solution** — Laravel, React.js, Azure  
-ROI analysis platform for British American Tobacco Bangladesh with automated revenue, expense, and investment tracking.
+### 📊 BAT ROI Solution — *SSL Wireless*
+**Laravel · React · Azure**  
+ROI analysis platform for **British American Tobacco Bangladesh**  
+- Automated revenue, expense, and investment tracking  
+- Real-time dashboards  
 
-**Easy SR Management** — Laravel, React.js, Oracle  
-Sales Representative management solution with microservice-based architecture and secure APIs.
+### 🧾 Easy SR Management — *SSL Wireless*
+**Laravel · React · Oracle**  
+- Sales Representative management platform  
+- Microservice-based APIs with secure authentication  
 
-**Pickaboo E-commerce** — Magento 2, Azure  
-E-commerce platform with optimized catalog performance, ElasticSearch integration, and vendor management portal.
+### 🛒 Pickaboo E-commerce — *Dcastalia*
+**Magento 2 · Azure · ElasticSearch**  
+- Optimized catalog performance  
+- Vendor portal and mobile API integrations  
 
 ---
 
-## Achievements
+## 🏆 Highlights & Achievements
 
-- Solved 300+ algorithmic problems on AlgoExpert, LeetCode, and HackerRank  
-- Ranked Top 20 in Intra-AUST Programming Contests (2016 & 2017)
+- Solved **300+ algorithmic problems** (AlgoExpert, LeetCode, HackerRank)  
+- **Top 20** – Intra-AUST Programming Contests (2016 & 2017)  
+- Led backend teams on high-traffic production systems  
 
 ---
 
-## Education
+## 🎓 Education
 
-**B.Sc. in Computer Science and Engineering**  
+**B.Sc. in Computer Science & Engineering**  
 Ahsanullah University of Science and Technology  
 
 ---
 
-## Contact
+## 🤝 Let’s Connect
 
-For professional collaboration, backend system design, or engineering leadership opportunities, feel free to reach out via email or LinkedIn.
+I enjoy working on **complex backend systems**, **architecture challenges**, and **mentoring engineers** who care about quality.
+
+If you’re interested in collaboration or technical discussion:
+
+🔗 [LinkedIn](https://www.linkedin.com/in/rh-nowshad)  
+📧 nowshad21aug@gmail.com  
+
+> *Build systems that scale. Write code that lasts.*
+
+<p align="center">
+  <img width="100%" alt="footer"
+       src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&animation=fadeIn" />
+</p>
