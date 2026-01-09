@@ -155,22 +155,6 @@ ROI analysis platform for **British American Tobacco Bangladesh**
 
 ---
 
-## 📊 Coding Activity
-
-<p align="center">
-  <img height="160"
-       src="https://github-readme-stats.vercel.app/api?username=nowshad7&show_icons=true&hide_title=true&rank_icon=github&theme=default" />
-  <img height="160"
-       src="https://github-readme-streak-stats.herokuapp.com/?user=nowshad7&theme=default" />
-</p>
-
-<p align="center">
-  <img height="160"
-       src="https://leetcard.jacoblin.cool/rh-nowshad?theme=light&font=Inter&ext=heatmap" />
-</p>
-
----
-
 ## 🎓 Education
 
 **B.Sc. in Computer Science & Engineering**  
