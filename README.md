@@ -173,6 +173,23 @@ I don't just write code. I design systems that teams can **own, extend, and trus
 <div align="center">
 <br/>
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=nowshad7&theme=tokyo-night&bg_color=0d1117&color=818CF8&line=818CF8&point=c084fc&hide_border=true&area=true&area_color=818CF820" />
+</div>
+
+---
+
+## 🧩 LeetCode Stats
+
+<div align="center">
+
+<img src="https://leetcard.jacoblin.cool/rh-nowshad?theme=dark&font=Fira+Code&ext=heatmap&border=0&radius=8" />
+
+</div>
+
+<div align="center">
+<br/>
+
+[![LeetCode Profile](https://img.shields.io/badge/View%20Full%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/rh-nowshad/)&nbsp;
+[![AlgoExpert Certificate](https://img.shields.io/badge/AlgoExpert%20Certified-00B8A9?style=for-the-badge&logo=checkmarx&logoColor=white)](https://certificate.algoexpert.io/AE-e366f4cc8a)
 
 </div>
 
